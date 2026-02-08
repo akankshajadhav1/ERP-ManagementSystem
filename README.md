@@ -5,14 +5,14 @@ A comprehensive, full-stack ERP web application built with the **MERN Stack** (M
 
 
 ###  Modules
-- ** Admin Dashboard**: Real-time insights into total products, customers, and orders with graphical data visualization.
-- ** Product Management**: CRUD operations for inventory items (Add, Edit, Delete, View).
-- ** Customer & Supplier Management**: Maintain directories for business partners and clients.
+- **Admin Dashboard**: Real-time insights into total products, customers, and orders with graphical data visualization.
+- **Product Management**: CRUD operations for inventory items (Add, Edit, Delete, View).
+- **Customer & Supplier Management**: Maintain directories for business partners and clients.
 - **Sales & Purchase Orders**: 
   - Create and manage Sales Orders for customers.
   - Raise Purchase Orders (PO) to suppliers.
   - Track order status (Pending, Completed, Received).
-- ** Goods Received Note (GRN)**: 
+- **Goods Received Note (GRN)**: 
   - Process incoming shipments against Purchase Orders.
   - Maintain a history of received goods.
 - **Invoice Generation**: 
