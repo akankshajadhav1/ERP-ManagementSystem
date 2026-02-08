@@ -2,23 +2,23 @@
 
 A comprehensive, full-stack ERP web application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js) to streamline business operations including Sales, Purchases, Inventory (GRN), and User Management.
 
-## 🚀 Features
 
-### Core Modules
-- **📊 Admin Dashboard**: Real-time insights into total products, customers, and orders with graphical data visualization.
-- **🛍️ Product Management**: CRUD operations for inventory items (Add, Edit, Delete, View).
-- **👥 Customer & Supplier Management**: Maintain directories for business partners and clients.
-- **🛒 Sales & Purchase Orders**: 
+
+###  Modules
+- ** Admin Dashboard**: Real-time insights into total products, customers, and orders with graphical data visualization.
+- ** Product Management**: CRUD operations for inventory items (Add, Edit, Delete, View).
+- ** Customer & Supplier Management**: Maintain directories for business partners and clients.
+- **Sales & Purchase Orders**: 
   - Create and manage Sales Orders for customers.
   - Raise Purchase Orders (PO) to suppliers.
   - Track order status (Pending, Completed, Received).
-- **📦 Goods Received Note (GRN)**: 
+- ** Goods Received Note (GRN)**: 
   - Process incoming shipments against Purchase Orders.
   - Maintain a history of received goods.
-- **🧾 Invoice Generation**: 
+- **Invoice Generation**: 
   - Automatically generate professional PDF invoices for completed sales.
   - Downloadable receipts tailored for customers.
-- **🔐 User Management (Admin)**: 
+- **User Management (Admin)**: 
   - Role-based access control (Admin, Sales, User).
   - Admins can manage system users and permissions.
 
@@ -29,12 +29,6 @@ A comprehensive, full-stack ERP web application built with the **MERN Stack** (M
 - **Responsive UI**: Built with **Tailwind CSS** for a modern, mobile-friendly design.
 - **Data Visualization**: Charts and graphs powered by `chart.js` / `react-chartjs-2`.
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js, Tailwind CSS, React Router v6, Axios, Recharts, React-Toastify, jsPDF
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (Mongoose ODM)
-- **Security**: JSON Web Tokens (JWT), Bcrypt for password hashing
 
 ## ⚙️ Installation & Setup
 
