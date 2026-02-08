@@ -89,4 +89,12 @@ erp-system/
 - **Invoices**: `/api/invoices`
 
 ---
-*Developed by [Your Name]*
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 05 44 PM" src="https://github.com/user-attachments/assets/73213556-7acb-4f3c-8bc7-f036e1bab0e3" />
+
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 05 59 PM" src="https://github.com/user-attachments/assets/bac9d85e-1e18-4ff7-884a-13998e34c44e" />
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 06 05 PM" src="https://github.com/user-attachments/assets/99e0391e-bf70-4083-953b-70050105e086" />
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 06 12 PM" src="https://github.com/user-attachments/assets/f2e575e7-d483-4f4c-a939-5be12c0d091a" />
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 06 36 PM" src="https://github.com/user-attachments/assets/a2fced9b-c590-4217-b4bc-29b5e6db3f58" />
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 06 47 PM" src="https://github.com/user-attachments/assets/8a45c48f-4cf0-475f-a64a-4b32e0fad236" />
+<img width="1470" height="956" alt="Screenshot 2026-02-08 at 3 06 57 PM" src="https://github.com/user-attachments/assets/67cc6dd7-3c37-4c04-bcfd-dd30ac319084" />
+
